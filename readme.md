@@ -10,3 +10,8 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Igor Rosberg
 * Orivaldo Santana
 * Rummenigge Dantas
+
+## Lideres de Desenvolvimento
+
+## Lideres de Gestão
+
