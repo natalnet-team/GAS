@@ -4,7 +4,7 @@ O GAS é um grupo irmão do [https://github.com/lar-ect/gim](GIM), são grupo co
  
 O Objetivo é formação de recursos humanos nas áreas de:
 * Desenvolvimento de Sistemas (incluindo programação para backend, frontend, aplicativos móveis)
-* Gestão e Inovação ( Gerenciamentod de projetos, Marketing, Captação de Recursos )
+* Gestão e Inovação ( Gerenciamento de projetos, Marketing, Captação de Recursos )
 
 ## Professores Orientadores
 * Aquiles Burlamaqui
