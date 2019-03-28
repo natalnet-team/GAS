@@ -6,7 +6,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Desenvolvimento de Sistemas e Aplicativos (incluindo programação para backend, frontend, aplicativos móveis)
 * Gestão e Inovação ( Gerenciamento de projetos, Marketing, Captação de Recursos )
 
-REPOSITORIO PRINCIPAL: [repositorio do GAS](https://github.com/natalnet-gas)
+REPOSITORIO PRINCIPAL: [repositório do GAS](https://github.com/natalnet-gas)
 
 ## Professores Orientadores
 * Aquiles Burlamaqui
