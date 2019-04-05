@@ -16,7 +16,10 @@ REPOSITORIO PRINCIPAL: [repositório do GAS](https://github.com/natalnet-gas)
 
 ## Lideres de Desenvolvimento
 
-* Marcos Paulo
+* Alek Tobias
+* Aryclênio Xavier
+* Daniel Fernandes
 
 ## Lideres de Gestão
 
+* Francisco Bianor
